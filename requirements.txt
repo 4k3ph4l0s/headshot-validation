@@ -1,0 +1,2 @@
+glasses_detector==1.0.1
+opencv_python==4.10.0.84

@@ -1,0 +1,6 @@
+{
+  "face_area_ratio_threshold": 0.2,
+  "face_height_ratio_threshold": 0.4,
+  "horizontal_offset_threshold": 0.2,
+  "vertical_offset_threshold": 0.2
+}
